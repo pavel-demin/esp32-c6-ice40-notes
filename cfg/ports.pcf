@@ -1,0 +1,12 @@
+set_io clk_i 37
+
+set_io led_o 19
+set_io dat_o 18
+
+set_io spi_sclk_i 15
+set_io spi_ssel_i 16
+set_io spi_mosi_i 17
+set_io spi_miso_o 14
+
+set_frequency clk_i 40
+set_frequency spi_sclk_i 40
