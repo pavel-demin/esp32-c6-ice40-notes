@@ -2,7 +2,7 @@ site_title: ESP32-C6-iCE40 Notes
 
 description: Notes on ESP32-C6 and iCE40
 
-source: https://github.com/pavel-demin/esp32-c6-ice40-notes/tree/master
+source: https://github.com/pavel-demin/esp32-c6-ice40-notes/tree/main
 issues: https://github.com/pavel-demin/esp32-c6-ice40-notes/issues
 
 release_file: https://github.com/pavel-demin/esp32-c6-ice40-notes/releases/download/20260215/esp32-c6-ice40-notes-20260308.zip
